@@ -19,7 +19,8 @@ from django.views.generic import TemplateView
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-url(r'^$', TemplateView.as_view(template_name="scrumboard/index.html")),
+    url(r'^$', TemplateView.as_view(template_name="scrumboard/index.html")),
     url(r'^scrumboard/', include('scrumboard.urls')),
+    url(r'^auth_api/', include('auth_api.urls')),
 
 ]
