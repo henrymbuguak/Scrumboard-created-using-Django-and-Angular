@@ -9,7 +9,8 @@
                 controller: 'ScrumboardController',
             })
             .when('/login', {
-                templateUrl: 'static/html/signin.html'
+                templateUrl: 'static/html/signin.html',
+                controller: 'LoginController'
             })
             .otherwise('/');
     }
