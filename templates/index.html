@@ -1,0 +1,21 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="{% static "css/app.css" %}">
+</head>
+<body ng-app="scrumboard.demo">
+<ng-view></ng-view>
+
+
+
+
+<script type="text/javascript" src="{% static "js/angular.min.js" %}"></script>
+<script type="text/javascript" src="{% static "js/angular-router.min.js" %}"></script>
+<script type="text/javascript" src="{% static "js/app.js" %}"></script>
+<script type="text/javascript" src="{% static "js/app.config.js" %}"></script>
+<script type="text/javascript" src="{% static "js/card.directive.js" %}"></script>
+</body>
+</html>
