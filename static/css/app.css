@@ -12,6 +12,7 @@ html {
 }
 
 .list h3 {
+    display: inline;
     padding-left: 7px;
     color: #ffffff;
 }
@@ -63,4 +64,14 @@ ul {
 
 .logout {
     float: right;
+}
+
+.logout,
+.show-filters {
+    float: right;
+}
+
+.list-sort {
+    color: #ffffff;
+    margin-left: 7px;
 }
