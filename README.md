@@ -7,7 +7,7 @@ This project focus on creating a scrumboard application using Python3, Angular a
 
 ### Djangu Rest API Framework
 
-Our rest api is created using django rest api framework and this offers a clean way to create api in django. Django rest api framework help us create secure api, ensuring that only authorized user can access our data.
+Our rest api is created using django rest api framework and this offers a clean way to create api in django. Django rest api framework help us create secure rest api, ensuring that only authorized user can access our data.
 
 ### Angular Js
 
