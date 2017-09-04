@@ -11,12 +11,15 @@ Our rest api is created using django rest api framework and this offers a clean 
 
 ### Angular Js
 
-We are have used the Angular js for our frontend.
+We have used angular js for our single pager application. This is what we truly call a single page application. We have implemented angular route, custom service and controllers.
 
 ### How to use the project
 
-Create virtual environment using python3, in your virtual environment install django rest api framework. Clone the project in your virtual environment.
+Create virtual environment using python3, in your virtual environment install django rest api framework. Clone the project in your virtual environment. Activate your virtual environment and run your application.
 
 ### Conclusion
 
 To be a better developer, set new challenges for yourself.
+
+
+<p align="center"><strong>Happy Coding!</strong></p>
