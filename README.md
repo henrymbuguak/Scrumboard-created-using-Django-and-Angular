@@ -3,7 +3,7 @@
 
 ### Introduction
 
-This project focus on creating a scrumboard application using Python3, Angular and Django 1.11.4. The reason for creating this project  using this technologies is to gain better understanding django. Django is one of the most popular python web framework.
+This project focus on creating a scrumboard application using Python3, Angular and Django 1.11.4. The reason for creating this project  using this technologies is to gain better understanding of how django works and creating rest api using rest api frameworrk. Django is one of the most popular python web framework.
 
 ### Djangu Rest API Framework
 
